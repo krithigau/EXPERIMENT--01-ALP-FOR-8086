@@ -99,5 +99,11 @@ Running The Emulator (emu8086) Intro 8086 Microprocessor Emulator, also known as
 
 ![Screenshot 2025-03-11 111106](https://github.com/user-attachments/assets/72f9d94c-e782-4667-8eed-3c543e9bbb8e)
 
+## Logical XOR
+## OUTPUT
+
+![Screenshot 2025-03-11 111507](https://github.com/user-attachments/assets/52aa1b73-fc0a-4493-ab5c-5e71e912fcd3)
+
+
 ## Result :
 The execution of ALP on fundamental arithmetic and logical operations is successfully completed.
